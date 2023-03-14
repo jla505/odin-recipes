@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Fried_rice</h1>
+    <img src="friedrice.jpeg">
+    <h3>Description</h3>
+    <h4>
+        Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other 
+        ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another 
+        dish
+    </h4>
+    <h3>Ingredients</h3>
+    <h4>
+        <ul>
+            <li>2 cups cooked rice (preferably cooled or day-old rice)</li>
+            <li>1/2 cup diced onion</li>
+            <li>1/2 cup diced carrots</li>
+            <li>1/2 cup diced bell peppers (red, green, or both)</li>
+            <li>1/2 cup frozen peas</li>
+            <li>2 cloves garlic, minced</li>
+            <li>2 eggs</li>
+            <li>2 tablespoons soy sauce</li>
+            <li>1 tablespoon oyster sauce</li>
+            <li>1 tablespoon vegetable oil</li>
+            <li>Salt and pepper to taste</li>
+        </ul>
+    </h4>
+    <h3>Steps</h3>
+    <h4>
+        <ol>
+            <li>Heat the oil in a wok or large skillet over medium-high heat.</li>
+            <li>Add the diced onion and cook until it becomes translucent, about 2-3 minutes.</li>
+            <li>Add the diced carrots and cook for another 2-3 minutes until they begin to soften.</li>
+            <li>Add the diced bell peppers and frozen peas, stir and cook for another 2-3 minutes.</li>
+            <li>Push the vegetables to one side of the wok or skillet and crack the eggs into the other side. Scramble the eggs with a spatula until fully cooked, then mix them in with the vegetables.</li>
+            <li>Add the minced garlic and stir for 1 minute.</li>
+            <li>Add the cooked rice and stir-fry for about 3-4 minutes until the rice is heated through and slightly crispy.</li>
+            <li>Add soy sauce, oyster sauce, salt, and pepper to taste, and stir to combine.</li>
+            <li>Serve immediately and enjoy your homemade fried rice!</li>
+          </ol>
+    </h4>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
